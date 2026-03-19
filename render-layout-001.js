@@ -31,10 +31,12 @@ a {
         font-size: 0.9rem;
         font-weight: normal;
         margin-top: 4px;
+        text-decoration: none;
     }
     .botao-padrao-1:hover { 
         background: #038d5a;
-        transform: scale(1.05); 
+        transform: scale(1.05);
+        text-decoration: none;
     }
     </style>
 
