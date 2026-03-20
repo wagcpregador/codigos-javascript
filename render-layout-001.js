@@ -31,12 +31,10 @@ a {
         font-size: 0.9rem;
         font-weight: normal;
         margin-top: 4px;
-        text-decoration: none;
     }
     .botao-padrao-1:hover { 
         background: #038d5a;
-        transform: scale(1.05);
-        text-decoration: none;
+        transform: scale(1.05); 
     }
     </style>
 
@@ -84,9 +82,10 @@ Os livros comuns impressos oferecem várias vantagens práticas:<br><br>
 
     <hr size="2" width="70%" border="0" color="#AAAAAA">
     <br><br>
-    <font size="5"><b>Versão E-book</b></font><br><br>
-Adquira o E-book para ler em Computador, Celular ou Tablet:<br><br>
+    <font size="5"><b>Versão Ebook</b></font><br><br>
+Adquira o Ebook para ler em Computador, Celular ou Tablet:<br><br>
     <img border="0" style="width: 400px;" src="$IMG_VERSAO_EBOOK$"><br><br>
+Um Ebook é um livro em formato digital, acessível por meio de dispositivos eletrônicos como celulares, tablets, computadores ou leitores digitais. Ele permite leitura prática, portátil e instantânea, podendo incluir recursos como busca por palavras, marcações e ajustes de fonte, oferecendo comodidade e versatilidade ao leitor moderno.<br><br>
 Os e-books oferecem várias vantagens práticas:<br><br>
 <b>Acesso imediato:</b> Você pode comprar e baixar um e-book instantaneamente, sem precisar ir a uma loja física.<br><br>
 <b>Portabilidade:</b> Um único dispositivo pode armazenar centenas de livros, permitindo que você leve uma biblioteca inteira com você.<br><br>
