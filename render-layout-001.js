@@ -86,12 +86,12 @@ Os livros comuns impressos oferecem várias vantagens práticas:<br><br>
 Adquira o Ebook para ler em Computador, Celular ou Tablet:<br><br>
     <img border="0" style="width: 400px;" src="$IMG_VERSAO_EBOOK$"><br><br>
 Um Ebook é um livro em formato digital, acessível por meio de dispositivos eletrônicos como celulares, tablets, computadores ou leitores digitais. Ele permite leitura prática, portátil e instantânea, podendo incluir recursos como busca por palavras, marcações e ajustes de fonte, oferecendo comodidade e versatilidade ao leitor moderno.<br><br>
-Os e-books oferecem várias vantagens práticas:<br><br>
-<b>Acesso imediato:</b> Você pode comprar e baixar um e-book instantaneamente, sem precisar ir a uma loja física.<br><br>
+Os Ebooks oferecem várias vantagens práticas:<br><br>
+<b>Acesso imediato:</b> Você pode comprar e baixar um Ebook instantaneamente, sem precisar ir a uma loja física.<br><br>
 <b>Portabilidade:</b> Um único dispositivo pode armazenar centenas de livros, permitindo que você leve uma biblioteca inteira com você.<br><br>
 <b>Personalização:</b> É possível ajustar o tamanho da fonte, o brilho da tela e até o fundo, tornando a leitura mais confortável.<br><br>
 <b>Busca rápida:</b> Você pode procurar palavras ou frases específicas dentro do texto, facilitando a localização de informações.<br><br>
-<b>Sustentabilidade:</b> E-books não requerem papel, o que os torna uma opção mais ecológica.<br><br>
+<b>Sustentabilidade:</b> Ebooks não requerem papel, o que os torna uma opção mais ecológica.<br><br>
     <b>Características</b><br><br>
 Formato: PDF<br>
     Páginas: $NUM_PAG_EBOOK$<br>
@@ -112,10 +112,10 @@ Formato: PDF<br>
     <font size="5"><b>Versão Audiobook em Mp3</b></font><br><br>
 Arquivo de áudio com narração em <a href="javascript:void(0)" onclick="openM('https://letraalfa.magehub.com.br/voz-tecno-natural')"><b>Voz Tecno-natural (Clique aqui)</b></a> de alta qualidade para ouvir em qualquer reprodutor digital - Computador, Celular ou Mp3 Player:<br><br>
     <img border="0" style="width: 400px;" src="$IMG_VERSAO_AUDIOBOOK$"><br><br>
-O audiobook é uma versão em áudio de um livro, narrada por uma pessoa ou por atores. Ele permite que os leitores “ouçam” o conteúdo do livro em vez de lê-lo. Os audiobooks podem ser acessados em dispositivos como smartphones, tablets e computadores, e são especialmente práticos para quem deseja consumir literatura enquanto realiza outras atividades, como dirigir, fazer exercícios ou tarefas domésticas.<br><br>
-Os audiobooks oferecem várias vantagens práticas:<br><br>
-<b>Multitarefa:</b> Você pode ouvir um audiobook enquanto realiza outras atividades, como dirigir, fazer exercícios ou tarefas domésticas.<br><br>
-<b>Portabilidade:</b> Assim como os e-books, os audiobooks podem ser armazenados em dispositivos móveis, permitindo que você leve uma biblioteca inteira com você sem ocupar espaço físico.<br><br>
+O Audiobook é uma versão em áudio de um livro, narrada por uma pessoa ou por atores. Ele permite que os leitores “ouçam” o conteúdo do livro em vez de lê-lo. Os Audiobooks podem ser acessados em dispositivos como smartphones, tablets e computadores, e são especialmente práticos para quem deseja consumir literatura enquanto realiza outras atividades, como dirigir, fazer exercícios ou tarefas domésticas.<br><br>
+Os Audiobooks oferecem várias vantagens práticas:<br><br>
+<b>Multitarefa:</b> Você pode ouvir um Audiobook enquanto realiza outras atividades, como dirigir, fazer exercícios ou tarefas domésticas.<br><br>
+<b>Portabilidade:</b> Assim como os Ebooks, os Audiobooks podem ser armazenados em dispositivos móveis, permitindo que você leve uma biblioteca inteira com você sem ocupar espaço físico.<br><br>
 <b>Acessibilidade:</b> São uma excelente opção para pessoas com deficiência visual ou dificuldades de leitura, proporcionando inclusão social.<br><br>
 <b>Flexibilidade:</b> Você pode ajustar a velocidade da narração e pausar ou retomar a leitura a qualquer momento.<br><br>
 <b>Economia de tempo:</b> Permitem que você aproveite momentos ociosos, como deslocamentos, para consumir conteúdo literário ou educativo.<br><br>
